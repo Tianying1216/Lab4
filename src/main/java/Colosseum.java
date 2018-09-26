@@ -84,7 +84,7 @@ public class Colosseum {
         System.out.println("Enter your defense level: ");
         tempPokemon.defenseLevel = in.nextInt();
         return tempPokemon;
-    }
+    }//dfsdfd
 
     /**
      * Prints who is ahead.
